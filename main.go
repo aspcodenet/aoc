@@ -1,7 +1,8 @@
 package main
 
 func main() {
-	day4Part2()
+	day5()
+	//day4Part2()
 	//day4()
 	//day3Part2()
 	//day3()
